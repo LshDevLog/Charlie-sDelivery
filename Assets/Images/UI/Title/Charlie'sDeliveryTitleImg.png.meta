@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 4041368ed12f67e41b6850b44823fdfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -178554869133454610
+    second: Charlie'sDelivery_0
+  - first:
+      213: -3908883813096483109
+    second: Charlie'sDelivery_1
+  - first:
+      213: 2803244800122892685
+    second: Charlie'sDelivery_2
+  - first:
+      213: -1979895454502242932
+    second: Charlie'sDelivery_3
+  - first:
+      213: 8035929301906596054
+    second: Charlie'sDelivery_4
+  - first:
+      213: -7546796711142947681
+    second: Charlie'sDelivery_5
+  - first:
+      213: -7643055924398849450
+    second: Charlie'sDelivery_6
+  - first:
+      213: -2864768444481725257
+    second: Charlie'sDelivery_7
+  - first:
+      213: -3909109046191130340
+    second: Charlie'sDelivery_8
+  - first:
+      213: -5681932935925199070
+    second: Charlie'sDelivery_9
+  - first:
+      213: 8174172929907307876
+    second: Charlie'sDelivery_10
+  - first:
+      213: 221654659569377476
+    second: Charlie'sDelivery_11
+  - first:
+      213: -3799690083681561121
+    second: Charlie'sDelivery_12
+  - first:
+      213: -7367279475986491195
+    second: Charlie'sDelivery_13
+  - first:
+      213: 4554032002606181080
+    second: Charlie'sDelivery_14
+  - first:
+      213: -5252550591846692346
+    second: Charlie'sDelivery_15
+  - first:
+      213: 8134101647617406951
+    second: Charlie'sDelivery_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charlie'sDelivery_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 124
+        width: 416
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25264ea45a58df0800000000000000
+      internalID: -178554869133454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 221
+        width: 218
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61c14d1ead0c9c0800000000000000
+      internalID: -3908883813096483109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_2
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 221
+        width: 285
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8139c12b4027e620800000000000000
+      internalID: 2803244800122892685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_3
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 221
+        width: 238
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85bbf5f29ff584e0800000000000000
+      internalID: -1979895454502242932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 221
+        width: 161
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ab48bf1b558f60800000000000000
+      internalID: 8035929301906596054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_5
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 221
+        width: 88
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940d383064644790800000000000000
+      internalID: -7546796711142947681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_6
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 221
+        width: 165
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65203c3a1296ee590800000000000000
+      internalID: -7643055924398849450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_7
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 318
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1be6274c4e38d0800000000000000
+      internalID: -2864768444481725257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_8
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 215
+        width: 175
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f289a80e00c9c0800000000000000
+      internalID: -3909109046191130340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f06945918b521b0800000000000000
+      internalID: -5681932935925199070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_10
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653dbb98fe707170800000000000000
+      internalID: 8174172929907307876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_11
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0617e0db9731300800000000000000
+      internalID: 221654659569377476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_12
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1
+        width: 64
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51691200ac44bc0800000000000000
+      internalID: -3799690083681561121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_13
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 178
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c89cc0a95a22c990800000000000000
+      internalID: -7367279475986491195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_14
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2a136afb233f30800000000000000
+      internalID: 4554032002606181080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1
+        width: 171
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac530e0113b17b0800000000000000
+      internalID: -5252550591846692346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie'sDelivery_16
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b7292a5222e070800000000000000
+      internalID: 8134101647617406951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Charlie'sDelivery_0: -178554869133454610
+      Charlie'sDelivery_1: -3908883813096483109
+      Charlie'sDelivery_10: 8174172929907307876
+      Charlie'sDelivery_11: 221654659569377476
+      Charlie'sDelivery_12: -3799690083681561121
+      Charlie'sDelivery_13: -7367279475986491195
+      Charlie'sDelivery_14: 4554032002606181080
+      Charlie'sDelivery_15: -5252550591846692346
+      Charlie'sDelivery_16: 8134101647617406951
+      Charlie'sDelivery_2: 2803244800122892685
+      Charlie'sDelivery_3: -1979895454502242932
+      Charlie'sDelivery_4: 8035929301906596054
+      Charlie'sDelivery_5: -7546796711142947681
+      Charlie'sDelivery_6: -7643055924398849450
+      Charlie'sDelivery_7: -2864768444481725257
+      Charlie'sDelivery_8: -3909109046191130340
+      Charlie'sDelivery_9: -5681932935925199070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

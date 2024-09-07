@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 7b47a63a863e5e44094d611134080ac5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4484346087042560165
+    second: ShootDownTheEnemy_0
+  - first:
+      213: -8294197327864690023
+    second: ShootDownTheEnemy_1
+  - first:
+      213: 3848655025571206602
+    second: ShootDownTheEnemy_2
+  - first:
+      213: 7722528604251313234
+    second: ShootDownTheEnemy_3
+  - first:
+      213: 5843362040015411944
+    second: ShootDownTheEnemy_4
+  - first:
+      213: -8877899107507275615
+    second: ShootDownTheEnemy_5
+  - first:
+      213: -3496816905280088450
+    second: ShootDownTheEnemy_6
+  - first:
+      213: -2858805080889902563
+    second: ShootDownTheEnemy_7
+  - first:
+      213: -303116192227257413
+    second: ShootDownTheEnemy_8
+  - first:
+      213: -7575940987052000368
+    second: ShootDownTheEnemy_9
+  - first:
+      213: -8500804000068872261
+    second: ShootDownTheEnemy_10
+  - first:
+      213: 1536102824708697603
+    second: ShootDownTheEnemy_11
+  - first:
+      213: 7794134290358999185
+    second: ShootDownTheEnemy_12
+  - first:
+      213: -5900461017246763198
+    second: ShootDownTheEnemy_13
+  - first:
+      213: -382101906668014220
+    second: ShootDownTheEnemy_14
+  - first:
+      213: -3743371118095639028
+    second: ShootDownTheEnemy_15
+  - first:
+      213: 116100300663363388
+    second: ShootDownTheEnemy_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 175
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4aef2ef664c1c0800000000000000
+      internalID: -4484346087042560165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 468
+        width: 218
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a81af897715ec80800000000000000
+      internalID: -8294197327864690023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 462
+        width: 248
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5913eca5b296530800000000000000
+      internalID: 3848655025571206602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 462
+        width: 248
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254513099deeb2b60800000000000000
+      internalID: 7722528604251313234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 468
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eade11e0dac71150800000000000000
+      internalID: 5843362040015411944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 468
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a875418ccd5bc480800000000000000
+      internalID: -8877899107507275615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 462
+        width: 248
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7613343d8fc87fc0800000000000000
+      internalID: -3496816905280088450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 459
+        width: 350
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab97feceb7358d0800000000000000
+      internalID: -2858805080889902563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 468
+        width: 219
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb310acdd6d1bcbf0800000000000000
+      internalID: -303116192227257413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7173bfc9dcd690800000000000000
+      internalID: -7575940987052000368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7dca61dc3170a80800000000000000
+      internalID: -8500804000068872261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 165
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e6c356165515510800000000000000
+      internalID: 1536102824708697603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 165
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981a8c87d35a2c60800000000000000
+      internalID: 7794134290358999185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 0
+        width: 222
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24777ff77f95d1ea0800000000000000
+      internalID: -5900461017246763198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 165
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475bd01275082baf0800000000000000
+      internalID: -382101906668014220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 0
+        width: 278
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed3732dcfdc0cc0800000000000000
+      internalID: -3743371118095639028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootDownTheEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 0
+        width: 226
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371b5bbb987c9100800000000000000
+      internalID: 116100300663363388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShootDownTheEnemy_0: -4484346087042560165
+      ShootDownTheEnemy_1: -8294197327864690023
+      ShootDownTheEnemy_10: -8500804000068872261
+      ShootDownTheEnemy_11: 1536102824708697603
+      ShootDownTheEnemy_12: 7794134290358999185
+      ShootDownTheEnemy_13: -5900461017246763198
+      ShootDownTheEnemy_14: -382101906668014220
+      ShootDownTheEnemy_15: -3743371118095639028
+      ShootDownTheEnemy_16: 116100300663363388
+      ShootDownTheEnemy_2: 3848655025571206602
+      ShootDownTheEnemy_3: 7722528604251313234
+      ShootDownTheEnemy_4: 5843362040015411944
+      ShootDownTheEnemy_5: -8877899107507275615
+      ShootDownTheEnemy_6: -3496816905280088450
+      ShootDownTheEnemy_7: -2858805080889902563
+      ShootDownTheEnemy_8: -303116192227257413
+      ShootDownTheEnemy_9: -7575940987052000368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

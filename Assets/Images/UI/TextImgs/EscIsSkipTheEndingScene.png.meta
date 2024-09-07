@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 4aef501469780be4eb81408663911e01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5512537402834899386
+    second: EscIsSkipTheEndingScene_0
+  - first:
+      213: -6928364780906962955
+    second: EscIsSkipTheEndingScene_1
+  - first:
+      213: 7451442853854943620
+    second: EscIsSkipTheEndingScene_2
+  - first:
+      213: 7415430263301270019
+    second: EscIsSkipTheEndingScene_3
+  - first:
+      213: 8849970713919463922
+    second: EscIsSkipTheEndingScene_4
+  - first:
+      213: -6341083146065321596
+    second: EscIsSkipTheEndingScene_5
+  - first:
+      213: -3301445370070904536
+    second: EscIsSkipTheEndingScene_6
+  - first:
+      213: 8107221779733991649
+    second: EscIsSkipTheEndingScene_7
+  - first:
+      213: -2289397495030199745
+    second: EscIsSkipTheEndingScene_8
+  - first:
+      213: 6703766099192750999
+    second: EscIsSkipTheEndingScene_9
+  - first:
+      213: -6658671659716807360
+    second: EscIsSkipTheEndingScene_10
+  - first:
+      213: 7957565484365589612
+    second: EscIsSkipTheEndingScene_11
+  - first:
+      213: -1593523439294229644
+    second: EscIsSkipTheEndingScene_12
+  - first:
+      213: -8490917295680299937
+    second: EscIsSkipTheEndingScene_13
+  - first:
+      213: -3137328993437154585
+    second: EscIsSkipTheEndingScene_14
+  - first:
+      213: -6447440556615785386
+    second: EscIsSkipTheEndingScene_15
+  - first:
+      213: -3527520297116696663
+    second: EscIsSkipTheEndingScene_16
+  - first:
+      213: -6228024332694775566
+    second: EscIsSkipTheEndingScene_17
+  - first:
+      213: 1877367342709254810
+    second: EscIsSkipTheEndingScene_18
+  - first:
+      213: 8365235382745035680
+    second: EscIsSkipTheEndingScene_19
+  - first:
+      213: -9048183331711651796
+    second: EscIsSkipTheEndingScene_20
+  - first:
+      213: 5292396885144324738
+    second: EscIsSkipTheEndingScene_21
+  - first:
+      213: -6117703036995324683
+    second: EscIsSkipTheEndingScene_22
+  - first:
+      213: 540430284711563506
+    second: EscIsSkipTheEndingScene_23
+  - first:
+      213: -970775796852799764
+    second: EscIsSkipTheEndingScene_24
+  - first:
+      213: 4653103490400833410
+    second: EscIsSkipTheEndingScene_25
+  - first:
+      213: -2649288379835767904
+    second: EscIsSkipTheEndingScene_26
+  - first:
+      213: -2195862184328177422
+    second: EscIsSkipTheEndingScene_27
+  - first:
+      213: -6000353631707024177
+    second: EscIsSkipTheEndingScene_28
+  - first:
+      213: 2072537008259196636
+    second: EscIsSkipTheEndingScene_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea8f450788f73b0800000000000000
+      internalID: -5512537402834899386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff96b790f089df90800000000000000
+      internalID: -6928364780906962955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899520dbc7d86760800000000000000
+      internalID: 7451442853854943620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ae0cc2986e8e660800000000000000
+      internalID: 7415430263301270019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1a7c3a97961da70800000000000000
+      internalID: 8849970713919463922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 80
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4816f83a972fff7a0800000000000000
+      internalID: -6341083146065321596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d09f7de8ee22d0800000000000000
+      internalID: -3301445370070904536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0da583143a28070800000000000000
+      internalID: 8107221779733991649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 114
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4e07ab1d6a30e0800000000000000
+      internalID: -2289397495030199745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_9
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 0
+        width: 80
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a0b7cfbf880d50800000000000000
+      internalID: 6703766099192750999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_10
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0457e969765a793a0800000000000000
+      internalID: -6658671659716807360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_11
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 0
+        width: 150
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2584a5a3fe6e60800000000000000
+      internalID: 7957565484365589612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_12
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473db93ffdaa2e9e0800000000000000
+      internalID: -1593523439294229644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_13
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2
+        width: 146
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c51c5d4b33a2a80800000000000000
+      internalID: -8490917295680299937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_14
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2
+        width: 54
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e205aa17e7f574d0800000000000000
+      internalID: -3137328993437154585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_15
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654287849f61686a0800000000000000
+      internalID: -6447440556615785386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_16
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff068bafabb0fc0800000000000000
+      internalID: -3527520297116696663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_17
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f81d3deddc9199a0800000000000000
+      internalID: -6228024332694775566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_18
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aaa17c6afbd0a10800000000000000
+      internalID: 1877367342709254810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_19
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3fb0b7249471470800000000000000
+      internalID: 8365235382745035680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_20
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 2
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2077baf2356e6280800000000000000
+      internalID: -9048183331711651796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_21
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a496d3dee527940800000000000000
+      internalID: 5292396885144324738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_22
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2
+        width: 54
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4b096308d891ba0800000000000000
+      internalID: -6117703036995324683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_23
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0981a0b7eff7700800000000000000
+      internalID: 540430284711563506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_24
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 0
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6ca006e8c1782f0800000000000000
+      internalID: -970775796852799764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_25
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 0
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc878a8f4239040800000000000000
+      internalID: 4653103490400833410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_26
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 0
+        width: 114
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a15c4146db3bd0800000000000000
+      internalID: -2649288379835767904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_27
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 2
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d76f3afab681e0800000000000000
+      internalID: -2195862184328177422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_28
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 2
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b067c9267abca0800000000000000
+      internalID: -6000353631707024177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscIsSkipTheEndingScene_29
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 2
+        width: 96
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e321ad6123cc10800000000000000
+      internalID: 2072537008259196636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EscIsSkipTheEndingScene_0: -5512537402834899386
+      EscIsSkipTheEndingScene_1: -6928364780906962955
+      EscIsSkipTheEndingScene_10: -6658671659716807360
+      EscIsSkipTheEndingScene_11: 7957565484365589612
+      EscIsSkipTheEndingScene_12: -1593523439294229644
+      EscIsSkipTheEndingScene_13: -8490917295680299937
+      EscIsSkipTheEndingScene_14: -3137328993437154585
+      EscIsSkipTheEndingScene_15: -6447440556615785386
+      EscIsSkipTheEndingScene_16: -3527520297116696663
+      EscIsSkipTheEndingScene_17: -6228024332694775566
+      EscIsSkipTheEndingScene_18: 1877367342709254810
+      EscIsSkipTheEndingScene_19: 8365235382745035680
+      EscIsSkipTheEndingScene_2: 7451442853854943620
+      EscIsSkipTheEndingScene_20: -9048183331711651796
+      EscIsSkipTheEndingScene_21: 5292396885144324738
+      EscIsSkipTheEndingScene_22: -6117703036995324683
+      EscIsSkipTheEndingScene_23: 540430284711563506
+      EscIsSkipTheEndingScene_24: -970775796852799764
+      EscIsSkipTheEndingScene_25: 4653103490400833410
+      EscIsSkipTheEndingScene_26: -2649288379835767904
+      EscIsSkipTheEndingScene_27: -2195862184328177422
+      EscIsSkipTheEndingScene_28: -6000353631707024177
+      EscIsSkipTheEndingScene_29: 2072537008259196636
+      EscIsSkipTheEndingScene_3: 7415430263301270019
+      EscIsSkipTheEndingScene_4: 8849970713919463922
+      EscIsSkipTheEndingScene_5: -6341083146065321596
+      EscIsSkipTheEndingScene_6: -3301445370070904536
+      EscIsSkipTheEndingScene_7: 8107221779733991649
+      EscIsSkipTheEndingScene_8: -2289397495030199745
+      EscIsSkipTheEndingScene_9: 6703766099192750999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
