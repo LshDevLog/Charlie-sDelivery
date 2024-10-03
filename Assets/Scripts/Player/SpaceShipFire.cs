@@ -1,29 +1,37 @@
+using System.Collections;
 using UnityEngine;
 
 public class SpaceShipFire : MonoBehaviour
 {
     [SerializeField]
     private Transform _firePoint;
-
-    private float _coolTime;
+    [SerializeField]
+    private float _coolTime = 0;
     private float _coolTimeMax = 0.2f;
-
-    private void Start()
-    {
-        _coolTime = 0;
-    }
 
     private void Update()
     {
-        UpdateCoolTime();
+        Fire();
     }
 
-    private void UpdateCoolTime()
+    private void OnEnable()
     {
-        if (_coolTime >= _coolTimeMax)
-            return;
+        StartCoroutine(CRT_UpdateCoolTime());
+    }
 
-        _coolTime += Time.deltaTime;
+    private void OnDisable()
+    {
+        StopCoroutine(CRT_UpdateCoolTime());
+        _coolTime = 0;
+    }
+
+    IEnumerator CRT_UpdateCoolTime()
+    {
+        while (enabled)
+        {
+            _coolTime += Time.deltaTime;
+            yield return null;
+        }
     }
 
     public void Fire()

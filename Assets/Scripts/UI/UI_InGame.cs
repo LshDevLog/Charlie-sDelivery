@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using TMPro;
 using UnityEngine;
 
@@ -9,14 +10,24 @@ public class UI_InGame : MonoBehaviour
 
     public GameObject _subMenu;
 
+    private void Start()
+    {
+        StartCoroutine(CRT_SetCursorAndText());
+    }
+
     private void OnDisable()
     {
         Cursor.visible = true;
     }
-    private void Update()
+
+    IEnumerator CRT_SetCursorAndText()
     {
-        SetCursor(_subMenu.activeSelf);
-        SetText();
+        while (true)
+        {
+            SetCursor(_subMenu.activeSelf);
+            SetText();
+            yield return null;
+        }
     }
 
     private void SetCursor(bool visible)

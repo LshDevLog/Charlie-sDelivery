@@ -33381,7 +33381,7 @@ Transform:
   m_GameObject: {fileID: 1529684760}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1520, y: 862.4, z: 2}
+  m_LocalPosition: {x: 1520, y: 862.4, z: 3}
   m_LocalScale: {x: 812.5, y: 710, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43247,6 +43247,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 489334c8218c55847a0da1b2aab47b05, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _moveEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _rb: {fileID: 0}
   _eMode: 0
 --- !u!82 &1942759903
@@ -43358,6 +43361,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4df5afaffa01afd458d59b812c6f5c3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _modeEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _deathSound: {fileID: 8300000, guid: b794fbf714adc4843a30718ac66fa60d, type: 3}
   _jumpingGroundSound: {fileID: 8300000, guid: 82608d98741536749a2f45d1aa1bac38, type: 3}
   _enemySpawner: {fileID: 575038434}
@@ -43369,12 +43375,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1942759896}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c74f9a43d9fc2147ab5d75abe7881ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _firePoint: {fileID: 1688420918}
+  _coolTime: 0
 --- !u!114 &1942759907
 MonoBehaviour:
   m_ObjectHideFlags: 0

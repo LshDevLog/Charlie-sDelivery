@@ -1,8 +1,13 @@
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 public class PlayerInteraction : MonoBehaviour
 {
+    public UnityEvent _modeEvent = new UnityEvent();
+
+    private SpaceShipFire _shipFire;
+
     [SerializeField]
     private AudioClip _deathSound, _jumpingGroundSound;
 
@@ -19,6 +24,11 @@ public class PlayerInteraction : MonoBehaviour
     private const string BOARD_SPACE_SHIP_TAG = "BoardSpaceShip";
     private const string FINISH_TAG = "Finish";
     private const string ENDING_SCENE_NAME = "EndingScene";
+
+    private void Awake()
+    {
+        _shipFire = GetComponent<SpaceShipFire>();
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -49,18 +59,25 @@ public class PlayerInteraction : MonoBehaviour
         SoundManager.Instance.PlaySfx(_deathSound);
         RecordManager.Instance.AddRecordNum(TOTAL_DEATH);
         transform.position = new Vector2(15, 12);
-        PlayerCore.Instance.ResetConstraints();
         _boat.ResetPos();
         _enemySpawner.enabled = false;
+        _shipFire.enabled = false;
+        _modeEvent?.Invoke();
     }
 
     private void Entrance(Collider2D col)
     {
         col.GetComponent<Entrance>().Move();
+        _modeEvent?.Invoke();
 
         if (col.gameObject.name.Equals(BOARD_SPACE_SHIP_TAG))
         {
             _enemySpawner.enabled = true;
+            _shipFire.enabled = true;
+        }
+        else
+        {
+            _shipFire.enabled = false;
         }
     }
 

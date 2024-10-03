@@ -3,6 +3,8 @@ using UnityEngine.UI;
 
 public class GravityCtrl : MonoBehaviour
 {
+    private PlayerInteraction _playerInteraction;
+
     [SerializeField]
     private Image _loadingImg;
 
@@ -10,12 +12,13 @@ public class GravityCtrl : MonoBehaviour
 
     private void Awake()
     {
+        _playerInteraction = FindAnyObjectByType<PlayerInteraction>();
         _loadingImg.gameObject.SetActive(false);
     }
 
-    private void Update()
+    private void Start()
     {
-        SetGravity();
+        _playerInteraction._modeEvent.AddListener(SetGravity);
     }
 
     private void SetGravity()

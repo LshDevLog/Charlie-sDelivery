@@ -36,13 +36,13 @@ public class UFO : EnemyCore
         Death();
     }
     
-    void ResetStats()
+    private void ResetStats()
     {
         _HP = 15;
         _attackCoolTime = 0;
         _attackCoolTimeMax = Random.Range(1.0f, 3.0f);
     }
-    void Move()
+    private void Move()
     {
         if(transform.position.x > _stopX)
         {
@@ -50,7 +50,7 @@ public class UFO : EnemyCore
         }
     }
 
-    void Attack()
+    private void Attack()
     {
         if(_attackCoolTime >= _attackCoolTimeMax)
         {
@@ -66,7 +66,7 @@ public class UFO : EnemyCore
         }
     }
 
-    void Death()
+    private void Death()
     {
         if(_HP <= 0)
         {
