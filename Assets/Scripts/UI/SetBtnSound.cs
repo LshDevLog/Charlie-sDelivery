@@ -6,7 +6,7 @@ public class SetBtnSound : MonoBehaviour
     private Button _btn;
 
     [SerializeField]
-    AudioClip _btnClip;
+    private AudioClip _btnClip;
 
     private void Awake()
     {

@@ -8,7 +8,7 @@ public class GravityCtrl : MonoBehaviour
     [SerializeField]
     private Image _loadingImg;
 
-    float[] _gravity = new float[] {5f, 1f, 0f};
+    float[] _gravity = {5f, 1f, 0f};
 
     private void Awake()
     {
@@ -25,11 +25,7 @@ public class GravityCtrl : MonoBehaviour
     {
         if(PlayerCore.Instance != null)
         {
-            for (int i = 0; i < _gravity.Length; ++i)
-            {
-                if ((int)PlayerCore.Instance._eMode == i)
-                    PlayerCore.Instance._rb.gravityScale = _gravity[i];
-            }
+            PlayerCore.Instance._rb.gravityScale = _gravity[(int)PlayerCore.Instance._eMode];
         }
     }
 }

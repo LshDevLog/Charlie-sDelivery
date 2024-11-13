@@ -9,6 +9,14 @@ public class InitSlider : MonoBehaviour
     private const string BGM_VOL = "BgmVol";
     private const string SFX_VOL = "SfxVol";
 
+    enum eSLIDER_TYPE
+    {
+        BGM,
+        SFX
+    }
+
+    [SerializeField]
+    private eSLIDER_TYPE _type;
 
     private void Awake()
     {
@@ -17,7 +25,7 @@ public class InitSlider : MonoBehaviour
 
     private void Start()
     {
-        if (gameObject.name.Equals(BGM_SLIDER))
+        if(_type == eSLIDER_TYPE.BGM)
         {
             _slider.onValueChanged.AddListener(SoundManager.Instance.SetBgmSound);
             _slider.value = SoundManager.Instance.InitVol(BGM_VOL);

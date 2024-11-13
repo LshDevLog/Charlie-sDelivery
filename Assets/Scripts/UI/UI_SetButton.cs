@@ -20,23 +20,18 @@ public class UI_SetButton : MonoBehaviour
     {
         if(_startBtn != null)
         {
-            _startBtn.onClick.AddListener(StartBtn);
+            _startBtn.onClick.AddListener(() => StartCoroutine(StartGameCo()));
         }
 
         if(_deleteBtn != null)
         {
-            _deleteBtn.onClick.AddListener(DeleteRecordBtn);
+            _deleteBtn.onClick.AddListener(() => _setRecord.ResetRecords());
         }
 
         if(_quitBtn != null)
         {
-            _quitBtn.onClick.AddListener(QuitBtn);
+            _quitBtn.onClick.AddListener(() => Application.Quit());
         }
-    }
-
-    private void StartBtn()
-    {
-        StartCoroutine(StartGameCo());
     }
 
     private IEnumerator StartGameCo()
@@ -44,15 +39,5 @@ public class UI_SetButton : MonoBehaviour
         Cursor.visible = false;
         yield return new WaitForSeconds(0.1f);
         SceneManager.LoadScene(PLAY_SCENE_NAME);
-    }
-
-    private void QuitBtn()
-    {
-        Application.Quit();
-    }
-
-    private void DeleteRecordBtn()
-    {
-        _setRecord.ResetRecords();
     }
 }
